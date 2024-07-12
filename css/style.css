@@ -1,3 +1,10 @@
+.font-family{
+    font-family: Poppins, sans-serif;
+}
 .panda-bg-info{
     background-color: #FEEAE9;
+}
+.categories img{
+   width: 70px;
+   height: 70px;
 }
